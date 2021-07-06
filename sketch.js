@@ -16,7 +16,7 @@ function setup() {
 
 
    for (var k = 2; k <=width; k = k + 80) {
-     divisions.push(new Divisions(k, 6, 10, divisionHeight));
+     divisions.push(new Divisions(k, 650, 10, divisionHeight));
    }
 
 
